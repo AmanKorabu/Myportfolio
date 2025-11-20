@@ -1,5 +1,5 @@
 
-import myImg from '../assets/photos/myImg.jpg'
+import myImg from '../assets/photos/WhatsApp Image 2025-11-20 at 11.38.20_15a17c96.jpg'
 import Resume from '../assets/photos/Student Athlete Resume.pdf'
 
 
